@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(247, 247, 242);
+}
+
+header{
+    font-size: 40px;
+}
+
+h1{
+    color: rgb(10, 10, 11);
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+a{
+  font-size: 22px;  
+}
+
+button{
+    font-size: 20px;
+}
+
+p{
+     font-size: 22px;
+}
+
+ul{
+    font-size: 22px;
+    
+    
+}
+
+footer{
+    font-size: 20px;
+    position: fixed;
+    bottom: 0;
+}
